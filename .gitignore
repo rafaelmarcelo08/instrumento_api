@@ -1,1 +1,4 @@
 /node_modules
+
+# Configuração de variaveis de ambiente
+variables.env

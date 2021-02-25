@@ -4,12 +4,9 @@
 
 ## 📚 Sobre o projeto
 
-
-
-
 ## 🛠 Tecnologias
 
-> **Front-End:**
+> **Back-End:**
 
 > - NodeJS
 > - JavaScript
